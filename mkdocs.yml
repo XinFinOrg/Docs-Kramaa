@@ -54,8 +54,5 @@ nav:
         - Media/Articles.md
     - FAQ:
         - faq/General.md
-        - faq/Advantage.md
-        - faq/Participants.md
-        - faq/ProjectFinancing.md
-        - faq/Contracting.md
+
 copyright: If you wish to improve this site, please <a href="https://github.com/XinFinOrg/Docs-kramaa/issues/new"><i class="fa fa-github"></i> open an issue</a> or <a href="https://github.com/XinFinOrg/Docs-kramaa/issues/compare"><i class="fa fa-github"></i> send a pull request</a>.<br>Kramaa.
