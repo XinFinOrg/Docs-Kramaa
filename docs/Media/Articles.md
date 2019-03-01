@@ -1,2 +1,2 @@
 
-**[1. TradeFinex on XinFin Hybrid Blockchain enables UnBanked Population with Peer to Peer cross Trade Finance](https://medium.com/xinfin/tradefinex-on-xinfin-hybrid-blockchain-enables-unbanked-population-with-peer-to-peer-cross-trade-e5139ad85cfa)**
+**[XinFin Hybrid blockchain uses Kramaa Platform for IoT integration](https://medium.com/kramaa/xinfin-hybrid-blockchain-uses-kramaa-platform-for-iot-integration-7947dde58291)**
