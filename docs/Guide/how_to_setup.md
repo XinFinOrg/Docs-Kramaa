@@ -1,3 +1,4 @@
+
 **1. Setup a MasterNode**
 
 **Prerequisite**
@@ -99,4 +100,24 @@ Your coinbase address can be found in xdcchain/coinbase.txt file.
     > Visit http://xinfin.network/#masternode
     > Upload a notarized kyc
 
-![overview](/assets/masternode-node.png)
+
+
+
+
+![overview](/assets/Register.jpg)
+
+
+![overview](/assets/login.jpg)
+
+
+![overview](/assets/dashboard.jpg)
+
+
+![overview](/assets/Nproject.jpg)
+
+
+![overview](/assets/Nthing.jpg)
+
+
+![overview](/assets/NDevice.jpg)
+

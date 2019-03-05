@@ -49,7 +49,6 @@ nav:
     - Introduction: index.md
     - Getting Started:
         - Guide/how_to_setup.md
-        - Guide/API.md
     - Media Room:
         - Media/Articles.md
     - FAQ:
