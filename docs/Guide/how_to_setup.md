@@ -4,15 +4,15 @@
 ##**2. Setup IOT Device Guide**
 
 
-**Kramaa Navigate Document**
+**Kramaa Navigation Document**
 
-- Kramaa is a Singapore based technology company converging latest technologies in blockchain, IoT, and analytics. The Company has created a blockchain based application ("The platform") for IoT identities linked to physical assets on Xinfin's proven hybrid blockchain architecture. 
+- Kramaa is a Singapore based technology company converging latest technologies in the blockchain, IoT, and analytics. The Company has created a blockchain based application ("The platform") for IoT identities linked to physical assets on XinFin's proven hybrid blockchain architecture.
 
-- The platform securely integrates physical assets & IoT devices through blockchain, smart contracts & firmware for creating digital identity, provenance, authentication, e-commerce, supply chain & finance. Industry applications for the platform include smart cities, pharma, packaging, logistics, Fashion / Luxury, Food & beverages, precious metals &Jewelry.
+- The platform securely integrates physical assets and IoT devices through blockchain, smart contracts and firmware for creating the digital identity, provenance, authentication, e-commerce, supply chain and finance. Industry applications for the platform include smart cities, pharma, packaging, logistics, fashion / luxury, food and beverages, precious metals and jewelry.
 
 - Kramaa will also offer an open API to build applications leveraging the registry platform
 
-- Industry - Pharmaceuticals, Smart City, Art and Collectibles, Fashion and Luxury, Food & Beverages, Logistics
+- Industry - Pharmaceuticals, Smart City, Art and Collectibles, Fashion and Luxury, Food & Beverages and Logistics
 
 - Use Cases - Digital Identity, Authentication, Track and Trace, Anti- Counterfeit, Tokenization and Automation
 
@@ -32,12 +32,12 @@ How to access the platform ?
 
 There are two ways to access / login the platform. 
 
-- Accessing it from the website www.kramaa.com and then clicking on the Login button will take you to login page
+- Accessing it from the website www.kramaa.com and then clicking on the Login button will take you to the login page.
 
 ![Summary](/assets/3.jpg)
 
 
-- The second way is accessing it directly by entering https://demo.kramaa.comin the URL address bar of your browser
+- The second way is accessing it directly by entering https://demo.kramaa.comin the URL address bar of your browser.
 
 ![Summary](/assets/4.jpg)
 
