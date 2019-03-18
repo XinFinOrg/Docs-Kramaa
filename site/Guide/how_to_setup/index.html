@@ -64,6 +64,12 @@
     <a class="current" href="./">How to setup</a>
     <ul class="subnav">
             
+    <li class="toctree-l3"><a href="#1-setup-a-masternode">1. Setup a MasterNode</a></li>
+    
+
+    <li class="toctree-l3"><a href="#2-website-set-up">2. Website Set-Up</a></li>
+    
+
     <li class="toctree-l3"><a href="#kramaa-navigate-document">Kramaa Navigate Document</a></li>
     
 
@@ -132,104 +138,8 @@
           <div role="main">
             <div class="section">
               
-                <p><strong>1. Setup a MasterNode</strong></p>
-<p><strong>Prerequisite</strong></p>
-<ol>
-<li>
-<p>Operating System : Ubuntu 16.04 64-bit or higher Should be facing internet directly with public IP &amp; without NAT</p>
-</li>
-<li>
-<p>Tools: Git, Docker, Docker Compose</p>
-</li>
-<li>
-<p>Network Ports</p>
-</li>
-</ol>
-<p>Following network ports need to be open for the nodes to communicate.</p>
-<p>8545  TCP - RPC <br> <br />
-30303 TCP/UDP - XDC</p>
-<p><strong>How to Setup Masternode ?</strong></p>
-<p><strong>0. Install Git</strong></p>
-<ul>
-<li>
-<p>Check whether git is preinstalled.</p>
-<blockquote>
-<p>git --version</p>
-</blockquote>
-</li>
-</ul>
-<p>If present, output will be something like git version 2.17.1. in this case, go to step a.</p>
-<ul>
-<li>
-<p>Otherwise follow the below steps.</p>
-<ol>
-<li>sudo apt update</li>
-<li>sudo apt install git</li>
-<li>git --version</li>
-</ol>
-</li>
-<li>
-<p>Configure Git.</p>
-<ol>
-<li>git config --global user.name "Your Name"</li>
-<li>git config --global user.email "youremail@domain.com"</li>
-</ol>
-</li>
-</ul>
-<p><strong>a. Clone repository</strong></p>
-<p>Run the following commands on your terminal.</p>
-<pre class="codehilite"><code>1. git clone [https://github.com/XinFinOrg/XinFin-Node.git](https://github.com/XinFinOrg/XinFin-Node.git)
-2. cd XinFin-Node</code></pre>
-
-
-<p>The git clone command will create a new folder XinFin-Node. cd XinFin-Node command changes the current directory to XinFin-Node</p>
-<p><strong>b. Install docker &amp; docker-compose</strong></p>
-<pre class="codehilite"><code>   sudo ./install\_docker.sh</code></pre>
-
-
-<p>The above command will install docker and docker-compose for you.</p>
-<p><strong>c. Update .env file with details</strong></p>
-<ul>
-<li>Copy a env.example file from XinFin-Node directory and name it as a .en</li>
-<li>
-<p>Open .env file and edit values for following</p>
-<ol>
-<li>INSTANCE_NAME : A Display name of your masternode</li>
-<li>CONTACT_DETAILS : Your Email ID</li>
-</ol>
-</li>
-</ul>
-<p><img alt="overview" src="/assets/xinfin-node.png" /></p>
-<p><img alt="overview" src="/assets/masternode-.env.png" /></p>
-<p><strong>d. Start your Node</strong></p>
-<pre class="codehilite"><code>    sudo docker-compose -f docker-services.yml up -d</code></pre>
-
-
-<p>This will start a Masternode and connect to a XinFin Testnet.</p>
-<p>You should be able to see your node listed on this page: <a href="https://www.xinfin.network">XinFin Network</a> (Make sure, you are connected to XinFin Testnet. If not, switch to Tesnet on top right corner)</p>
-<p>Your coinbase address can be found in xdcchain/coinbase.txt file.</p>
-<p><img alt="overview" src="/assets/masternode-listing.png" /></p>
-<p><strong>2. Stake XDC</strong></p>
-<p><strong>Create XDC Wallet</strong></p>
-<pre class="codehilite"><code>  &amp;gt; Visit http://xinfin.network/#webWallet and Click on create a new wallet.
-  &amp;gt; you can create use a web wallet or download eWallet app from Google Play Store.
-  &amp;gt; Create an account
-  &amp;gt; Store your private key at a safe place (Hardware wallet is recommended)</code></pre>
-
-
-<p><img alt="overview" src="/assets/xinfin_wallet.png" /></p>
-<p><strong>Buy XDC</strong></p>
-<pre class="codehilite"><code> &amp;gt; get your free XDC to use on XinFin Testnet
- &amp;gt; Visit XinFin TestNet Faucet http://xinfin.network/#getTestXDC.
- &amp;gt; Add your wallet address created in step 2.b and request XDC</code></pre>
-
-
-<p><img alt="overview" src="/assets/masternode-faucet.png" /></p>
-<p><strong>Upload Kyc</strong></p>
-<pre class="codehilite"><code>&amp;gt; Visit http://xinfin.network/#masternode
-&amp;gt; Upload a notarized kyc</code></pre>
-
-
+                <h2 id="1-setup-a-masternode"><strong><a href="https://howto.xinfin.org/get-started/Setupmn/">1. Setup a MasterNode</a></strong><a class="headerlink" href="#1-setup-a-masternode" title="Permanent link">&para;</a></h2>
+<h2 id="2-website-set-up"><strong>2. Website Set-Up</strong><a class="headerlink" href="#2-website-set-up" title="Permanent link">&para;</a></h2>
 <h1 id="kramaa-navigate-document"><strong>Kramaa Navigate Document</strong><a class="headerlink" href="#kramaa-navigate-document" title="Permanent link">&para;</a></h1>
 <ul>
 <li>
