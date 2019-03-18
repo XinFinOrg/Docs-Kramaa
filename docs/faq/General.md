@@ -1,3 +1,3 @@
-﻿!!! quote "What is Kramma Platform?"
+﻿!!! quote "What is Kramaa Platform?"
 
 Kramaa is a Singapore based technology company converging latest technologies in the blockchain, IoT, and analytics. The Company has created a blockchain based application ("The platform") for IoT identities linked to physical assets on XinFin's proven hybrid blockchain architecture. The platform securely integrates physical assets, and IoT devices through blockchain, smart contracts, and firmware for creating the digital identity, provenance, authentication, e-commerce, supply chain, and finance. Industry applications for the platform include smart cities, pharma, packaging, logistics, fashion/luxury, food & beverages, precious metals, and jewelry. For more information, please [click here](https://www.kramaa.com/)
