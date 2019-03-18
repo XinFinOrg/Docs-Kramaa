@@ -4,7 +4,7 @@
 ##**2. Website Set-Up**
 
 
-# **Kramaa Navigate Document**
+**Kramaa Navigate Document**
 
 - Kramaa is a Singapore based technology company converging latest technologies in blockchain, IoT, and analytics. The Company has created a blockchain based application ("The platform") for IoT identities linked to physical assets on Xinfin's proven hybrid blockchain architecture. 
 
