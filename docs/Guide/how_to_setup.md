@@ -1,7 +1,7 @@
 
 ##**[1. Setup a MasterNode](https://howto.xinfin.org/get-started/Setupmn/)**
 
-##**2. Website Set-Up**
+##**2. Setup IOT Device Guide**
 
 
 **Kramaa Navigate Document**
@@ -90,3 +90,7 @@ Capturing location information on the platform using a sensor
 If you click on setting there will be an option to invite other colleagues from your organization
 
 ![Summary](/assets/24.jpg)
+
+
+
+
