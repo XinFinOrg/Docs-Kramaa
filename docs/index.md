@@ -1,6 +1,6 @@
 ﻿# **About Kramaa**
 
-Kramaa is a Singapore based technology company converging latest technologies in the blockchain, IoT, and analytics. The Company has created a blockchain based application ("The platform") for IoT identities linked to physical assets on XinFin's proven hybrid blockchain architecture. The platform securely integrates physical assets & IoT devices through blockchain, smart contracts & firmware for creating the digital identity, provenance, authentication, e-commerce, supply chain and finance. Industry applications for the platform include smart cities, pharma, packaging, logistics, fashion / luxury, food & beverages, precious metals and jewelry.
+Kramaa is a Singapore based technology company converging latest technologies in the blockchain, IoT, and analytics. The company has created a blockchain based application ("The platform") for IoT identities linked to physical assets on XinFin's proven hybrid blockchain architecture. The platform securely integrates physical assets and IoT devices through blockchain, smart contracts, and firmware for creating the digital identity, provenance, authentication, e-commerce, supply chain, and finance. Industry applications for the platform include smart cities, pharma, packaging, logistics, fashion / luxury, food & beverages, precious metals, and jewelry.
 
 ![overview](/assets/overview.jpg)
 
@@ -18,7 +18,7 @@ The current IoT ecosystems rely on centralized, brokered communication models, o
 
 While this model has connected generic computing devices for decades, and will continue to support small-scale IoT networks as we see them today, it will not be able to respond to the growing needs of the huge IoT ecosystems of tomorrow.
 
-Existing IoT solutions are expensive because of the high infrastructure and maintenance cost associated with centralized clouds, large server farms and networking equipment. The sheer amount of communications that will have to be handled when IoT devices grow to the tens of billions will increase those costs substantially.
+Existing IoT solutions are expensive because of the high infrastructure and maintenance cost associated with centralized clouds, large server farms, and networking equipment. The sheer amount of communications that will have to be handled when IoT devices grow to the tens of billions will increase those costs substantially.
 
 Even if the unprecedented economic and engineering challenges are overcome, cloud servers will remain a bottleneck and point of failure that can disrupt the entire network. This is especially important as more critical tasks
 
